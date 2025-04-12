@@ -1,0 +1,32 @@
+{
+    "Times Square": {
+        "Central Park": 17,
+        "Brooklyn Bridge": 7,
+        "Empire State Building": 12,
+        "Statue of Liberty": 43
+    },
+    "Central Park": {
+        "Times Square": 27,
+        "Brooklyn Bridge": 16,
+        "Empire State Building": 7,
+        "Statue of Liberty": 37
+    },
+    "Brooklyn Bridge": {
+        "Times Square": 13,
+        "Central Park": 45,
+        "Empire State Building": 9,
+        "Statue of Liberty": 40
+    },
+    "Empire State Building": {
+        "Times Square": 25,
+        "Central Park": 13,
+        "Brooklyn Bridge": 11,
+        "Statue of Liberty": 16
+    },
+    "Statue of Liberty": {
+        "Times Square": 9,
+        "Central Park": 12,
+        "Brooklyn Bridge": 41,
+        "Empire State Building": 22
+    }
+}

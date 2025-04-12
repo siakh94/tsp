@@ -1,0 +1,9 @@
+{
+    "RouteID_1": {
+        "packages": {
+            "PKG1": "University of Washington",
+            "PKG2": "Space Needle",
+            "PKG3": "Seattle Art Museum"
+        }
+    }
+}

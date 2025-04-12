@@ -1,0 +1,32 @@
+{
+    "Hollywood Sign": {
+        "Venice Beach": 19,
+        "Santa Monica Pier": 21,
+        "Griffith Observatory": 10,
+        "LAX Airport": 22
+    },
+    "Venice Beach": {
+        "Hollywood Sign": 22,
+        "Santa Monica Pier": 39,
+        "Griffith Observatory": 34,
+        "LAX Airport": 40
+    },
+    "Santa Monica Pier": {
+        "Hollywood Sign": 21,
+        "Venice Beach": 37,
+        "Griffith Observatory": 14,
+        "LAX Airport": 23
+    },
+    "Griffith Observatory": {
+        "Hollywood Sign": 17,
+        "Venice Beach": 5,
+        "Santa Monica Pier": 30,
+        "LAX Airport": 34
+    },
+    "LAX Airport": {
+        "Hollywood Sign": 40,
+        "Venice Beach": 14,
+        "Santa Monica Pier": 34,
+        "Griffith Observatory": 37
+    }
+}

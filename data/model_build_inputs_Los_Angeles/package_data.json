@@ -1,0 +1,9 @@
+{
+    "RouteID_3": {
+        "packages": {
+            "PKG1": "Venice Beach",
+            "PKG2": "LAX Airport",
+            "PKG3": "Griffith Observatory"
+        }
+    }
+}

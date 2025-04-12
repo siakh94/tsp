@@ -1,0 +1,14 @@
+{
+    "RouteID_1": {
+        "route_score": "Low",
+        "station_code": "Seattle"
+    },
+    "RouteID_2": {
+        "route_score": "Medium",
+        "station_code": "New_York"
+    },
+    "RouteID_3": {
+        "route_score": "Medium",
+        "station_code": "Los_Angeles"
+    }
+}

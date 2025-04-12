@@ -1,0 +1,32 @@
+{
+    "Pike Place Market": {
+        "Space Needle": 5,
+        "Seattle Art Museum": 42,
+        "University of Washington": 17,
+        "Alki Beach": 14
+    },
+    "Space Needle": {
+        "Pike Place Market": 33,
+        "Seattle Art Museum": 25,
+        "University of Washington": 17,
+        "Alki Beach": 17
+    },
+    "Seattle Art Museum": {
+        "Pike Place Market": 24,
+        "Space Needle": 38,
+        "University of Washington": 20,
+        "Alki Beach": 29
+    },
+    "University of Washington": {
+        "Pike Place Market": 33,
+        "Space Needle": 28,
+        "Seattle Art Museum": 33,
+        "Alki Beach": 19
+    },
+    "Alki Beach": {
+        "Pike Place Market": 19,
+        "Space Needle": 35,
+        "Seattle Art Museum": 40,
+        "University of Washington": 40
+    }
+}
